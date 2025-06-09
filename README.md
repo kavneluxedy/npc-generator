@@ -13,7 +13,7 @@ ou
 
 ### `npm i`
 
-Une fois l'installation terminé, tu tappes
+Une fois l'installation terminée, tu tappes
 
 ### `npm start`
 
